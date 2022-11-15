@@ -1,0 +1,1 @@
+To Download New Images, open Spider w/ Anaconda (untitled0.py)
